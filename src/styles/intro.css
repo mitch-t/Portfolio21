@@ -1,0 +1,52 @@
+.intro {
+    display: flex;
+    margin: 5%;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+h2 {
+    padding-top: 25px;
+    display: block;
+    font-size: 1.7em;
+    font-weight: bold;
+    background-color: rgba(174, 228, 250, 0.8);
+}
+
+#profilePic { 
+    box-shadow: 10px 10px 10px black;
+    border-style: solid;
+    max-width: 15%;
+}
+
+.tag {
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    color: black;
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 992px) {
+    #profilePic {
+      margin-left: 25%; 
+      max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .intro {
+        display: grid;
+    }
+}
+
+@media (min-width: 1200px) {
+    h2 {
+        padding: 5px;
+    }
+}
+
+@media (min-width: 600px) {
+    h2 {
+        padding: 5px;
+    }
+}

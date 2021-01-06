@@ -1,0 +1,38 @@
+body {
+    background: rgb(135, 181, 226);
+    min-height: 100%;
+
+}
+
+nav {
+    box-shadow: 10px 10px 10px black;
+}
+
+.navbar-brand {
+    font-family:'Poiret One', cursive;
+    font-size: 55px;
+}
+
+.navbar-toggler {
+    margin-left: 37%;
+}
+
+.content {
+    color: dodgerblue;
+    font-family: 'Merienda', cursive;
+    font-size: larger;
+    margin-block-start: 6%;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-toggler {
+      margin-left: 42%;
+      max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-nav, .nav-link, .content {
+      text-align: -webkit-center;
+    }
+}
