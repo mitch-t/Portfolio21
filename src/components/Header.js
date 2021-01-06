@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/header.css";
+import Pdf from '../assets/Resume-tech21.pdf';
 
 function Header() {
     return (
@@ -22,9 +23,11 @@ function Header() {
                     </li>
                     <li className="nav-item">
                         <a className="nav-link active"
-                            href="../assets/Resume-tech.pdf" target="_blank" rel="noopener noreferrer"
-                            >Résumé
-                            </a>   
+                             href={Pdf} without rel="noopener noreferrer" target="_blank">
+                        
+                            Resume
+                        
+                         </a>  
                     </li> 
                 </ul>
             </div>
@@ -33,3 +36,7 @@ function Header() {
 }
 
 export default Header;
+
+
+
+   
