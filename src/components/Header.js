@@ -22,7 +22,7 @@ function Header() {
                     </li>
                     <li className="nav-item">
                         <a className="nav-link active"
-                            href="ADD RESUME" target="_blank" rel="noopener noreferrer"
+                            href="../assets/Resume-tech.pdf" target="_blank" rel="noopener noreferrer"
                             >Résumé
                             </a>   
                     </li> 
