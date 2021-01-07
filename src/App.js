@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import Intro from "./components/Intro";
-//import Project from "./components/Project"
+import Project from "./components/Projects"
 import Header from "./components/Header";
 //import Footer from "./components/Footer";
 
@@ -11,7 +11,8 @@ function App() {
       <div>
         <Header />
         <Intro />
-       
+        <Project id="projects" name="projects"/>
+
         <div className="skills">
         </div>
      
