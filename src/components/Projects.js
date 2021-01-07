@@ -1,7 +1,7 @@
 import React from "react";
-//import "../styles/project.css";
+import "../styles/project.css";
 import schdlr from "../assets/weekdayPlanner.png";
-import burger from "../assets/EatABurger.png";
+import burger from "../assets/Eat A Burger.png";
 import weather from "../assets/weatherDash.png";
 import fitness from "../assets/Fitapp.png";
 import team from "../assets/teamprofile.png";
@@ -9,7 +9,7 @@ import suggestsocal from "../assets/SugSoCal.png";
 
 let projects = [
     {
-        title:"Scheduler",
+        title:"Planner",
         subtitle:"Schedule Your Day!",
         image:schdlr,
         site:"https://mitch-t.github.io/Workday-Planner/",
@@ -46,10 +46,10 @@ let projects = [
         live:"Live on Heroku",
         github:"https://github.com/mitch-t/StayFit.git",
         code:"GitHub Code",
-        description: "A full-stack workout tracking application using Mongo database with Mongoose schema and Express routes. Allows a user to create, view, and track daily workouts. A user can log multiple exercises in a workout on a given day; with the ability to track the name, type, weight, sets, reps, and duration of exercise, with a cardio exercise the user can track distance traveled."
+        description: "A full-stack workout tracking application using Mongo database with Express routes. Allows a user to create, view, and track daily workouts. A user can log multiple exercises on a given day, tracking the name, type, weight, sets, reps, and duration of exercise, with a cardio exercise the user can track distance traveled."
     },
     {
-        title:"Team Profiles",
+        title:"Team Profile",
         image:team,
         github:"https://github.com/mitch-t/TeamGenerator.git",
         code:"GitHub Code",
@@ -76,7 +76,6 @@ function Project() {
                     <h2 className ="imgBoxText"> { project.title }</h2>
                     <img className="img-fluid" src={ project.image } alt="projects"></img> 
                     </div>
-                    <div className="colorElement"></div>
                 <div className="imgBoxCont">
                     <div className="subtext">
                         <p> { project.description } </p>
