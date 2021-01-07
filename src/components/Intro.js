@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/intro.css";
 import profilepic from "../assets/updated pic.jpg";
 
-const About = () => (
+const Intro = () => (
   <div>
       <div className="intro">
         <img id="profilePic"src={profilepic} alt="profilePicture"></img>
@@ -26,4 +26,4 @@ const About = () => (
   </div>
 );
 
-export default About;
+export default Intro;

@@ -1,0 +1,64 @@
+.footer {
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+    left: 0px;
+    bottom: 50px;
+    height: 100px;
+    width: 100%;
+}
+
+.footerConnectCont {
+    color:whitesmoke;
+    background-color: #343a40;
+    font-family: 'Merienda', cursive;
+    text-transform: uppercase;
+    padding: 20px
+}
+
+.linkedImg, .gitImg{
+    margin-left: 20px;
+    max-width: 40px;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+}
+
+.contact {
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5px;
+    background-color: dodgerblue;
+}
+
+#email {
+    color: black;
+    font-weight: bolder;
+}
+
+.footerNavCont {
+    color:dodgerblue;
+    background-color: black;
+    text-align: center;
+    position: relative;
+    padding: 10px 0px 30px 0px;
+}
+
+#tm {
+    margin: 0%;
+}
+
+.topButton {
+    bottom: 0px;
+    left: 50%;
+    color: #f4f5ff;
+    font-size: 16px;
+    line-height: 1em;
+    text-align: center;
+    text-decoration: none;
+    padding: 13px 15px 15px 15px;
+    background-color: rgba(0,0,0,.15);
+}
