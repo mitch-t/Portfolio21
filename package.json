@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://mitch-t.github.io/Portfolio21/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
