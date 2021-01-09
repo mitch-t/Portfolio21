@@ -18,8 +18,9 @@ const Intro = () => (
       </div>
       <div>
         <hr></hr>
-        <h4 className="tag">Motivated to bring a high level of diligence and goal oriented drive into the creation of applications 
-          <p>while continuously searching for new challenges to conquer.</p>
+        <h4 className="tag">
+          <p>Take an analytical approach to problem solving and would like to apply my newly acquired techinical skills
+                        in web development and programming to help you achieve your goals.</p>
         </h4>
         <hr></hr>
       </div>

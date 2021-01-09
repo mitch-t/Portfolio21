@@ -83,7 +83,7 @@ h2 {
     font-family: 'Merienda';
     font-weight: normal;
     line-height: normal;
-    margin: 0 0 1.25rem;
+    margin: 0 0 1.5rem;
     position: relative;
     text-decoration: underline;
     text-align: center;
@@ -106,9 +106,9 @@ h2 {
     text-decoration: underline;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 990px) {
     .imgBoxCont, .subtext {
-        max-width: 1140px;
+        max-width: 1135px;
     }
 }
 

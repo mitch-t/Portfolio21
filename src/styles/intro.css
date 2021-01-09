@@ -7,10 +7,13 @@
 
 h2 {
     padding-top: 25px;
-    display: block;
+   
+    display: flex;
+    margin: 5%;
     font-size: 1.7em;
     font-weight: bold;
     background-color: rgba(174, 228, 250, 0.8);
+    
 }
 
 #profilePic { 
@@ -20,10 +23,13 @@ h2 {
 }
 
 .tag {
+    display: flex;
+    margin: 3%;
     text-align: center;
     font-family: 'Merienda', cursive;
     color: black;
     text-transform: capitalize;
+   
 }
 
 @media screen and (max-width: 992px) {
