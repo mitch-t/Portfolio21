@@ -12,6 +12,7 @@
 
 ## About 
 Portfolio21 - This app was created with react and is resposive. 
+https://mitch-t.github.io/Portfolio21/
 
 ## Questions
 If you have any questions you can contact me at mitcht032@yahoo.com:
