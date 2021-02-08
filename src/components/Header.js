@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/header.css";
-import Pdf from '../assets/Resume-tech21.pdf';
+import Pdf from '../assets/Resume-21.pdf';
 
 function Header() {
     return (
