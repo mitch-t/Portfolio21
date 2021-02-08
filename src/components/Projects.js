@@ -14,7 +14,7 @@ let projects = [
         image:ManyGigs,
         site:"https://manygigs.herokuapp.com/",
         live:"Live on Heroku",
-        github:"https://github.com/mitch-t/ManyGigs",
+        github:"https://github.com/mitch-t/ManyGigs.git",
         code:"GitHub Code",
         description: "Application that is created with Reactjs. Full-stack that uses CRUD for user posts. Connected to MongoDB with authentication feature"
     },
@@ -52,7 +52,9 @@ let projects = [
         title:"Travel Budget",
         subtitle:"Keep track of your expenses with or without internet connection",
         image:budget,
-        github:"https://github.com/mitch-t/TeamGenerator.git",
+        site:"https://obscure-sea-28002.herokuapp.com/",
+        live:"Live on Heroku",
+        github:"https://github.com/mitch-t/travelBudget.git",
         code:"GitHub Code",
         description: "A Node CLI that takes in information about employees and generates an HTML webpage that displays a team roster based on the information provided by the user. Uses inquirer npm package."
     },
