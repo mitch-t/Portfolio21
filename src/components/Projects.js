@@ -1,22 +1,22 @@
 import React from "react";
 import "../styles/project.css";
 import schdlr from "../assets/weekdayPlanner.png";
-import burger from "../assets/Eat A Burger.png";
+import ManyGigs from "../assets/manygigs.png";
 import weather from "../assets/weatherDash.png";
 import fitness from "../assets/Fitapp.png";
-import team from "../assets/teamprofile.png";
+import budget from "../assets/budget.png";
 import suggestsocal from "../assets/SugSoCal.png";
 
 let projects = [
     {
-        title:"Planner",
-        subtitle:"Schedule Your Day!",
-        image:schdlr,
-        site:"https://mitch-t.github.io/Workday-Planner/",
-        live:"Live on GitHub Pages",
-        github:"https://github.com/mitch-t/Workday-Planner.git",
+        title:"ManyGigs",
+        subtitle:"Full Stack App that connects workers with work",
+        image:ManyGigs,
+        site:"https://manygigs.herokuapp.com/",
+        live:"Live on Heroku",
+        github:"https://github.com/mitch-t/ManyGigs",
         code:"GitHub Code",
-        description: "A simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. The Moment.js library was used to work with date and time."
+        description: "Application that is created with Reactjs. Full-stack that uses CRUD for user posts. Connected to MongoDB with authentication feature"
     },
     {
         title:"SuggestSoCal",
@@ -49,22 +49,24 @@ let projects = [
         description: "A full-stack workout tracking application using Mongo database with Express routes. Allows a user to create, view, and track daily workouts. A user can log multiple exercises on a given day, tracking the name, type, weight, sets, reps, and duration of exercise, with a cardio exercise the user can track distance traveled."
     },
     {
-        title:"Team Profile",
-        image:team,
+        title:"Travel Budget",
+        subtitle:"Keep track of your expenses with or without internet connection",
+        image:budget,
         github:"https://github.com/mitch-t/TeamGenerator.git",
         code:"GitHub Code",
         description: "A Node CLI that takes in information about employees and generates an HTML webpage that displays a team roster based on the information provided by the user. Uses inquirer npm package."
     },
-    {
-        title:"Burger",
-        site:"https://shrouded-hollows-61483.herokuapp.com/index",
-        live:"Live on Heroku",
-        image:burger,
-        github:"https://github.com/mitch-t/burger.git",
+    {    
+    title:"Day Planner",
+        subtitle:"Plan your day with this 9-5 planner",
+        image:schdlr,
+        site:"https://mitch-t.github.io/Workday-Planner/",
+        live:"Live on GitHub Pages",
+        github:"https://github.com/mitch-t/Workday-Planner.git",
         code:"GitHub Code",
-        description: "A fun little Full Stack application that uses mySQL, node express, and handlebars"
+        description: "A simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. The Moment.js library was used to work with date and time."
     }
-]
+    ]
 
 function Project() {
     return (
