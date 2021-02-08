@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio21/static/css/main.ebea5b19.chunk.css",
-    "main.js": "/Portfolio21/static/js/main.8604129c.chunk.js",
-    "main.js.map": "/Portfolio21/static/js/main.8604129c.chunk.js.map",
+    "main.js": "/Portfolio21/static/js/main.c0cdbd3f.chunk.js",
+    "main.js.map": "/Portfolio21/static/js/main.c0cdbd3f.chunk.js.map",
     "runtime-main.js": "/Portfolio21/static/js/runtime-main.25923a8a.js",
     "runtime-main.js.map": "/Portfolio21/static/js/runtime-main.25923a8a.js.map",
     "static/js/2.becde085.chunk.js": "/Portfolio21/static/js/2.becde085.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.ebea5b19.chunk.css.map": "/Portfolio21/static/css/main.ebea5b19.chunk.css.map",
     "static/js/2.becde085.chunk.js.LICENSE.txt": "/Portfolio21/static/js/2.becde085.chunk.js.LICENSE.txt",
     "static/media/Fitapp.e9089c02.png": "/Portfolio21/static/media/Fitapp.e9089c02.png",
-    "static/media/Resume-tech21.89f72c27.pdf": "/Portfolio21/static/media/Resume-tech21.89f72c27.pdf",
+    "static/media/Resume-21.116a7d3d.pdf": "/Portfolio21/static/media/Resume-21.116a7d3d.pdf",
     "static/media/SugSoCal.bf15fa21.png": "/Portfolio21/static/media/SugSoCal.bf15fa21.png",
     "static/media/budget.f3fecac3.png": "/Portfolio21/static/media/budget.f3fecac3.png",
     "static/media/manygigs.1b2d64f3.png": "/Portfolio21/static/media/manygigs.1b2d64f3.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.25923a8a.js",
     "static/js/2.becde085.chunk.js",
     "static/css/main.ebea5b19.chunk.css",
-    "static/js/main.8604129c.chunk.js"
+    "static/js/main.c0cdbd3f.chunk.js"
   ]
 }
