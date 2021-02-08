@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio21/static/css/main.ebea5b19.chunk.css",
-    "main.js": "/Portfolio21/static/js/main.75d52089.chunk.js",
-    "main.js.map": "/Portfolio21/static/js/main.75d52089.chunk.js.map",
+    "main.js": "/Portfolio21/static/js/main.8604129c.chunk.js",
+    "main.js.map": "/Portfolio21/static/js/main.8604129c.chunk.js.map",
     "runtime-main.js": "/Portfolio21/static/js/runtime-main.25923a8a.js",
     "runtime-main.js.map": "/Portfolio21/static/js/runtime-main.25923a8a.js.map",
     "static/js/2.becde085.chunk.js": "/Portfolio21/static/js/2.becde085.chunk.js",
@@ -12,11 +12,11 @@
     "index.html": "/Portfolio21/index.html",
     "static/css/main.ebea5b19.chunk.css.map": "/Portfolio21/static/css/main.ebea5b19.chunk.css.map",
     "static/js/2.becde085.chunk.js.LICENSE.txt": "/Portfolio21/static/js/2.becde085.chunk.js.LICENSE.txt",
-    "static/media/Eat A Burger.d265f62a.png": "/Portfolio21/static/media/Eat A Burger.d265f62a.png",
     "static/media/Fitapp.e9089c02.png": "/Portfolio21/static/media/Fitapp.e9089c02.png",
     "static/media/Resume-tech21.89f72c27.pdf": "/Portfolio21/static/media/Resume-tech21.89f72c27.pdf",
     "static/media/SugSoCal.bf15fa21.png": "/Portfolio21/static/media/SugSoCal.bf15fa21.png",
-    "static/media/teamprofile.89fc02c3.png": "/Portfolio21/static/media/teamprofile.89fc02c3.png",
+    "static/media/budget.f3fecac3.png": "/Portfolio21/static/media/budget.f3fecac3.png",
+    "static/media/manygigs.1b2d64f3.png": "/Portfolio21/static/media/manygigs.1b2d64f3.png",
     "static/media/updated pic.1f7c73d2.jpg": "/Portfolio21/static/media/updated pic.1f7c73d2.jpg",
     "static/media/weatherDash.755c1a55.png": "/Portfolio21/static/media/weatherDash.755c1a55.png",
     "static/media/weekdayPlanner.5b26f7ba.png": "/Portfolio21/static/media/weekdayPlanner.5b26f7ba.png"
@@ -25,6 +25,6 @@
     "static/js/runtime-main.25923a8a.js",
     "static/js/2.becde085.chunk.js",
     "static/css/main.ebea5b19.chunk.css",
-    "static/js/main.75d52089.chunk.js"
+    "static/js/main.8604129c.chunk.js"
   ]
 }
