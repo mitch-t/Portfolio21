@@ -10,7 +10,7 @@ function Footer() {
     <footer className="footer">
         <div className="footerConnectCont">
             Contact Me
-            <a className="linkedin" href="http://www.linkedin.com/in/thomas-mitchell-5a84223a" 
+            <a className="linkedin" href="http://www.linkedin.com/in/mitch-t" 
             target="_blank" rel="noopener noreferrer">
             <img className="linkedImg" src={linkedin} alt="Linkedin"></img>
             </a>
@@ -19,7 +19,7 @@ function Footer() {
             </a>
         </div>
         <div className="contact">
-        <a id="email" href="mitcht032@yahoo.com">mitcht032@yahoo.com</a>
+        <a id="email" a href="mailto:mitcht032@yahoo.com">mitcht032@yahoo.com</a>
         </div>
         <div className="footerNavCont">
             <p role="img" id="tm">Made by TM<span role="img"
