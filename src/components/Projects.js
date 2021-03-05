@@ -16,7 +16,7 @@ let projects = [
         live:"Live on Heroku",
         github:"https://github.com/mitch-t/ManyGigs.git",
         code:"GitHub Code",
-        description: "Application that is created with Reactjs. Full-stack that uses CRUD for user posts. Connected to MongoDB with authentication feature"
+        description: "Application that is created with Reactjs. Full-stack that utilizes CRUD for user posts. Connected to MongoDB with authentication feature"
     },
     {
         title:"SuggestSoCal",
@@ -56,7 +56,7 @@ let projects = [
         live:"Live on Heroku",
         github:"https://github.com/mitch-t/travelBudget.git",
         code:"GitHub Code",
-        description: "A Node CLI that takes in information about employees and generates an HTML webpage that displays a team roster based on the information provided by the user. Uses inquirer npm package."
+        description: "An app that allows a user to track their expenses and displays their expenditures in a graph. Built with Express routes and uses mongoose and MongoDB."
     },
     {    
     title:"Day Planner",
